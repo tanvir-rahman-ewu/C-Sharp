@@ -1,0 +1,11 @@
+C:\Users\Win10\Desktop\C-Sharp\Claas_and_obj\Claas_and_obj\bin\Debug\netcoreapp3.1\Claas_and_obj.exe
+C:\Users\Win10\Desktop\C-Sharp\Claas_and_obj\Claas_and_obj\bin\Debug\netcoreapp3.1\Claas_and_obj.deps.json
+C:\Users\Win10\Desktop\C-Sharp\Claas_and_obj\Claas_and_obj\bin\Debug\netcoreapp3.1\Claas_and_obj.runtimeconfig.json
+C:\Users\Win10\Desktop\C-Sharp\Claas_and_obj\Claas_and_obj\bin\Debug\netcoreapp3.1\Claas_and_obj.runtimeconfig.dev.json
+C:\Users\Win10\Desktop\C-Sharp\Claas_and_obj\Claas_and_obj\bin\Debug\netcoreapp3.1\Claas_and_obj.dll
+C:\Users\Win10\Desktop\C-Sharp\Claas_and_obj\Claas_and_obj\bin\Debug\netcoreapp3.1\Claas_and_obj.pdb
+C:\Users\Win10\Desktop\C-Sharp\Claas_and_obj\Claas_and_obj\obj\Debug\netcoreapp3.1\Claas_and_obj.csprojAssemblyReference.cache
+C:\Users\Win10\Desktop\C-Sharp\Claas_and_obj\Claas_and_obj\obj\Debug\netcoreapp3.1\Claas_and_obj.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\C-Sharp\Claas_and_obj\Claas_and_obj\obj\Debug\netcoreapp3.1\Claas_and_obj.AssemblyInfo.cs
+C:\Users\Win10\Desktop\C-Sharp\Claas_and_obj\Claas_and_obj\obj\Debug\netcoreapp3.1\Claas_and_obj.dll
+C:\Users\Win10\Desktop\C-Sharp\Claas_and_obj\Claas_and_obj\obj\Debug\netcoreapp3.1\Claas_and_obj.pdb
