@@ -1,0 +1,11 @@
+C:\Users\Win10\Desktop\C-Sharp\Interface-P\Interface-P\bin\Debug\netcoreapp3.1\Interface-P.exe
+C:\Users\Win10\Desktop\C-Sharp\Interface-P\Interface-P\bin\Debug\netcoreapp3.1\Interface-P.deps.json
+C:\Users\Win10\Desktop\C-Sharp\Interface-P\Interface-P\bin\Debug\netcoreapp3.1\Interface-P.runtimeconfig.json
+C:\Users\Win10\Desktop\C-Sharp\Interface-P\Interface-P\bin\Debug\netcoreapp3.1\Interface-P.runtimeconfig.dev.json
+C:\Users\Win10\Desktop\C-Sharp\Interface-P\Interface-P\bin\Debug\netcoreapp3.1\Interface-P.dll
+C:\Users\Win10\Desktop\C-Sharp\Interface-P\Interface-P\bin\Debug\netcoreapp3.1\Interface-P.pdb
+C:\Users\Win10\Desktop\C-Sharp\Interface-P\Interface-P\obj\Debug\netcoreapp3.1\Interface-P.csprojAssemblyReference.cache
+C:\Users\Win10\Desktop\C-Sharp\Interface-P\Interface-P\obj\Debug\netcoreapp3.1\Interface-P.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\C-Sharp\Interface-P\Interface-P\obj\Debug\netcoreapp3.1\Interface-P.AssemblyInfo.cs
+C:\Users\Win10\Desktop\C-Sharp\Interface-P\Interface-P\obj\Debug\netcoreapp3.1\Interface-P.dll
+C:\Users\Win10\Desktop\C-Sharp\Interface-P\Interface-P\obj\Debug\netcoreapp3.1\Interface-P.pdb
