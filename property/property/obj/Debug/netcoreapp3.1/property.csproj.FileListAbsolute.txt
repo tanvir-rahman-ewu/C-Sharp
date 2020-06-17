@@ -1,0 +1,11 @@
+C:\Users\Win10\Desktop\C-Sharp\property\property\bin\Debug\netcoreapp3.1\property.exe
+C:\Users\Win10\Desktop\C-Sharp\property\property\bin\Debug\netcoreapp3.1\property.deps.json
+C:\Users\Win10\Desktop\C-Sharp\property\property\bin\Debug\netcoreapp3.1\property.runtimeconfig.json
+C:\Users\Win10\Desktop\C-Sharp\property\property\bin\Debug\netcoreapp3.1\property.runtimeconfig.dev.json
+C:\Users\Win10\Desktop\C-Sharp\property\property\bin\Debug\netcoreapp3.1\property.dll
+C:\Users\Win10\Desktop\C-Sharp\property\property\bin\Debug\netcoreapp3.1\property.pdb
+C:\Users\Win10\Desktop\C-Sharp\property\property\obj\Debug\netcoreapp3.1\property.csprojAssemblyReference.cache
+C:\Users\Win10\Desktop\C-Sharp\property\property\obj\Debug\netcoreapp3.1\property.AssemblyInfoInputs.cache
+C:\Users\Win10\Desktop\C-Sharp\property\property\obj\Debug\netcoreapp3.1\property.AssemblyInfo.cs
+C:\Users\Win10\Desktop\C-Sharp\property\property\obj\Debug\netcoreapp3.1\property.dll
+C:\Users\Win10\Desktop\C-Sharp\property\property\obj\Debug\netcoreapp3.1\property.pdb
